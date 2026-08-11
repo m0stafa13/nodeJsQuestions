@@ -1,7 +1,7 @@
 let http = require("http")
 let fs = require("fs")
 const path = require("path")
-const { rawListeners } = require("cluster")
+
 // function to read data 
 let readAllData = () => {
     return JSON.parse(fs.readFileSync(path.resolve("./users.json"), "utf-8"))

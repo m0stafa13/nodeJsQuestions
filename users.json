@@ -1,1 +1,44 @@
-[{"id":2,"name":"mohamed","email":"tefa@gmail.com","password":"123","age":31},{"id":3,"name":"Omar","email":"omar.@gmail.com","password":"123","age":19},{"id":4,"name":"youssef","email":"youssef@gmail.com","password":"Pass4123","age":27},{"id":7,"name":"msotafaMahmoud","email":"abhady@gmail.com","password":"123","age":24},{"id":8,"name":"mohamed","email":"d@u.com","password":"123","age":31},{"id":8,"name":"msotafaMahmoud","email":"mama@gmail.com","password":"123","age":24}]
+[
+    {
+        "id": 2,
+        "name": "mohamed",
+        "email": "tefa@gmail.com",
+        "password": "123",
+        "age": 31
+    },
+    {
+        "id": 3,
+        "name": "Omar",
+        "email": "omar.@gmail.com",
+        "password": "123",
+        "age": 19
+    },
+    {
+        "id": 4,
+        "name": "youssef",
+        "email": "youssef@gmail.com",
+        "password": "Pass4123",
+        "age": 27
+    },
+    {
+        "id": 7,
+        "name": "msotafaMahmoud",
+        "email": "abhady@gmail.com",
+        "password": "123",
+        "age": 24
+    },
+    {
+        "id": 8,
+        "name": "mohamed",
+        "email": "d@u.com",
+        "password": "123",
+        "age": 31
+    },
+    {
+        "id": 8,
+        "name": "msotafaMahmoud",
+        "email": "mama@gmail.com",
+        "password": "123",
+        "age": 24
+    }
+]
